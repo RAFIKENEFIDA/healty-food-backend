@@ -57,14 +57,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-<hr>
-
-## Authors
-
-- [@Youssef Hajjari](https://twitter.com/Yosufuu)
-- [@Youness Hassoune](https://twitter.com/YounessHassoune)
-- [@Othmane Kahtal](https://twitter.com/KahtalMi)
